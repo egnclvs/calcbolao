@@ -1,6 +1,7 @@
 #Calculo Bolao da copa
 #!/usr/local/bin/python
 # -*- coding: utf-42 -*-
+#acrescentando
 import os, sys
 while True:
     selecao = []
